@@ -1,0 +1,29 @@
+body {
+  font-family: sans-serif;
+  background-color: #f8f8f8;
+  color: #333;
+  margin: 0;
+  padding: 0;
+}
+header {
+  background: #222;
+  color: #fff;
+  padding: 1rem;
+  text-align: center;
+}
+main {
+  padding: 1rem;
+}
+section {
+  margin-bottom: 2rem;
+}
+img {
+  max-width: 100%;
+  height: auto;
+}
+footer {
+  text-align: center;
+  padding: 1rem;
+  font-size: 0.8rem;
+  background: #ddd;
+}
